@@ -1,4 +1,1 @@
-title: Hackpad
-author: Andreas Coppens
-description: I'm making a custom programmable keyboard with 9 buttons for my desk. Each button will have its own function to quickly open programs, websites or run shortcuts.
-created_at: 26/08/2026
+#Day 1: today i made the keys in https://respawnin.github.io/3x3MacroPadGUI/?utm_source=chatgpt.com  .Then i maded the code for autohotkey i tested it and it worked. Then i hopt on Onshape and made the top cover for the hack pad here is my lapse  
